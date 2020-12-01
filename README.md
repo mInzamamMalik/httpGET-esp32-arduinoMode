@@ -1,3 +1,5 @@
 # httpGET-esp32-arduinoMode
 
-https://randomnerdtutorials.com/esp32-http-get-post-arduino/
+make sure you have selected esp32 as your board
+
+https://github.com/espressif/arduino-esp32/tree/master/libraries/HTTPClient/examples
